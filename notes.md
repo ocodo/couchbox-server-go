@@ -1,1 +1,2 @@
 - inspect https://github.com/codefodder/couchbox-server for the python implementation.
+- see info.md and below of key information
