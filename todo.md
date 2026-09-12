@@ -1,4 +1,4 @@
-# Couchbox Server \u2014 Go Port
+# Couchbox Server Go Port
 
 Functional port of `codefodder/couchbox-server` to Go.
 
