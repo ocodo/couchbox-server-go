@@ -29,19 +29,22 @@ implementation.
 
 - [x] Identify configuration schema from Couchbox
 - [x] Define Go configuration types
-- [ ] Implement configuration loading
-- [ ] Implement configuration defaults
+- [x] Implement configuration loading
+- [x] Implement configuration defaults
 - [ ] Test invalid configuration
 - [ ] Test missing configuration
 - [ ] Test configuration compatibility
+- [ ] Video Exts handled
 
 note: 
 
+```
 config.VideoExts
        │
        ├── filesystem
        ├── listings
        └── any other extension-sensitive behavior
+```
 
 ## Listings
 
