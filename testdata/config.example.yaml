@@ -1,0 +1,28 @@
+content:
+  movies:
+    - ./testdata/movies
+    - ./testdata/movies-alt
+  tv:
+    - ./testdata/tv
+
+data:
+  blank:
+    posters:
+      path: ./testdata/posters/blank
+
+  movies:
+    posters:
+      path: ./testdata/posters/movies
+
+  tv:
+    posters:
+      path: ./testdata/posters/tv
+    backdrops:
+      path: ./testdata/posters/backdrops
+
+video_exts:
+  - .avi
+  - .mov
+  - .mkv
+  - .mp4
+  - .webm
